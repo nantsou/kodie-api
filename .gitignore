@@ -1,0 +1,14 @@
+# MacOS
+.DS_Store
+
+# ide
+.idea/
+.vscode/
+
+# pythone
+venv/
+__pycache__/
+
+# fastapi
+celerybeat-schedule.db
+.coverage
